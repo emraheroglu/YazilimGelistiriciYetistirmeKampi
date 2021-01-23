@@ -13,7 +13,7 @@ namespace Metotlar_16012020
 
             Urun urun2 = new Urun();
             urun2.Adi = "Karpuz";
-            urun2.Fiyati = 80;,
+            urun2.Fiyati = 80;
             urun2.Aciklama = "Diyarbakır Karpuzu";
 
             Urun[] urunler = new Urun[] {urun1, urun2 };
